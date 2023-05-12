@@ -1,0 +1,149 @@
+.portada{
+  align-items: center;
+  display: flex;
+}
+
+.fotoPortada{
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+  box-shadow: 0 0px 0rem .5rem  white,
+   0 0px 4rem 2rem  #7fffd4;
+}
+
+.carta{
+  display: flex;
+  justify-content: center;
+  padding-left: 25%;
+  padding-right: 8%;
+  padding-top: 10%;
+  margin-bottom: 3rem;
+}
+
+.disco{
+  height: 540px;
+  background-color: #ff69b4;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+  justify-items: center;
+}
+
+.letraDisco{
+  font-size: 1.5rem;
+  color: white;
+  font-weight: 600;
+  align-items: center;
+  width: 70%;
+  letter-spacing: 3px;
+}
+
+.zonaFotos{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  margin-bottom: 3rem;
+}
+
+.titulofotos{
+  font-weight: 600;
+  font-size: 2rem;
+  letter-spacing: 8px;
+  margin: 3rem 0;
+}
+
+.foto{
+  margin: 0 4rem;
+  object-fit: cover;
+  box-shadow: 0 0px 0rem .5rem  white,
+   0 0px 0rem 1rem  #f4c2e2,
+   0 0px 0rem 1.5rem  #7fffd4;
+}
+
+.zonaEntradas{
+  background-color: #868686dd;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+.imagen{
+  box-shadow: 0 5px 2rem .3rem #D9D9D9
+}
+
+.tituloEntradas{
+  font-weight: 600;
+  font-size: 2rem;
+  letter-spacing: 8px;
+  margin: 2rem 0;
+  padding: 12px 30%;
+  background-color: #afafaf;
+}
+
+.listado{
+  margin: 4rem 0;
+}
+
+.fechas{
+  margin-left: -40%;
+  display: grid;
+  grid-template-columns: 100% 50%;
+  ;
+}
+
+.lugar{
+  margin-right: 5%;
+  align-items: left;
+  justify-items: left;
+}
+
+.comprar{
+  margin-top: 10%;
+  margin-left: 40%;
+  display: flex;
+  justify-items: center;
+  padding: 12px 26px;
+  border-width: 0;
+  background-color: #7fffd4;
+  font-size: 1.1rem;
+  align-items: center;
+}
+
+.comprar:hover{
+  background-color: #ff69b4 ;
+  cursor: pointer;
+}
+
+.sala{
+  font-size: 2.5rem;
+  font-weight: 300;
+  margin-top: 1.5rem ;
+  margin-bottom: 0;
+}
+
+.zonaVideos{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-bottom: 3rem;
+  background-color: #2BAF9F;
+}
+
+.tituloVideos{
+  font-weight: 600;
+  font-size: 2rem;
+  letter-spacing: 8px;
+  margin: 3rem 0;
+  color: white;
+}
+
+.bordeVideo{
+  margin: 1.5rem;
+  box-shadow: 0 0px 0rem 1rem  white
+}
+
+.video{
+  margin: 0 1.5rem;
+  padding: .5rem;
+  background-color: white;
+  
+}

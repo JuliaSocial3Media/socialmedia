@@ -1,0 +1,40 @@
+.lamina{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-bottom: 10rem;
+  background-color: #FF55AA;
+  
+}
+
+.titulo{
+  margin-top: 8rem;
+  align-items: center;
+  justify-items: center;
+  font-weight: 300;
+  font-size: 5rem;
+  letter-spacing: 12px;
+}
+
+.h1{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  color: white;
+}
+
+.seccion{
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  margin: 0 18%;
+}
+
+.partes{
+  margin: 0 5rem;
+}
+
+.bordeVideo{
+  margin: 2rem;
+  box-shadow: 0 0px 0rem 1rem  white
+}

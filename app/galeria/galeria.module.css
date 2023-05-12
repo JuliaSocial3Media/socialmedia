@@ -1,0 +1,34 @@
+.lamina{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-bottom: 2.5rem;
+}
+
+.titulo{
+  margin-top: 8rem;
+  align-items: center;
+  justify-items: center;
+  font-weight: 300;
+  font-size: 5rem;
+  letter-spacing: 12px;
+}
+
+.h1{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+
+.seccion{
+  display: grid;
+}
+
+.partes{
+  display: grid;
+}
+
+.imagen{
+  margin: 1rem;
+
+}

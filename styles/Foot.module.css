@@ -1,0 +1,41 @@
+.zonaContactos{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  margin-bottom: 0;
+  background: linear-gradient(#888, #111);
+}
+
+.zona2Contactos{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  background-color: #111;
+}
+
+.tituloContactos{
+  font-weight: 600;
+  font-size: 2rem;
+  letter-spacing: 8px;
+  color: white;
+  margin-bottom: 0em;
+}
+
+.zonaEnlaces{
+  display: flex;
+  ;
+}
+
+.enlace{
+  margin: 0 1.5rem;
+  color: white;
+}
+
+.mail{
+  margin: .3rem 0;
+  color: white;
+}
+
+.correos{
+  display: grid;
+}

@@ -1,0 +1,35 @@
+
+
+.contenedor {
+  background-color: aquamarine;
+  margin-top: 0;
+  display: flex;
+  justify-content: right;
+  align-items: flex;
+  position: fixed;
+  width: 100%;
+}
+
+.semicontenedor{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.enlace{
+  
+  display: inline-flexbox;
+  padding: 0 10px ;
+}
+
+.texto{
+  color: white;
+  font-size: 1.8em;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.texto:hover{
+  color: #ff69b4;
+  cursor: pointer;
+}

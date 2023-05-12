@@ -1,0 +1,40 @@
+.lamina{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-bottom: 10rem;
+  background-color: #55cfc4;
+  
+}
+
+.titulo{
+  margin-top: 8rem;
+  align-items: center;
+  justify-items: center;
+  font-weight: 300;
+  font-size: 5rem;
+  letter-spacing: 12px;
+}
+
+.h1{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  color: white;
+}
+
+.seccion{
+  display: flex;
+  columns: 50% 50%;
+  margin: 0 10% ;
+}
+
+.partes{
+  margin: 0 5rem;
+  font-size: 1.3rem;
+}
+
+
+.imagen{
+  box-shadow: 0 10px 3rem .8rem #D9D9D9
+}

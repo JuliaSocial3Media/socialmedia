@@ -1,0 +1,62 @@
+.lamina{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  padding-bottom: 10rem;
+  background-color: #FF55AA;
+  
+}
+
+.titulo{
+  margin-top: 8rem;
+  align-items: center;
+  justify-items: center;
+  font-weight: 300;
+  font-size: 5rem;
+  letter-spacing: 12px;
+}
+
+.h1{
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  color: white;
+}
+
+.seccion{
+  display: flex;
+  columns: 50% 50%;
+  margin: 0 10% ;
+}
+
+.partes{
+  margin: 0 5rem;
+}
+
+.h3{
+  font-size: 1.5rem;
+}
+
+.texto{
+  font-size: 3rem;
+  margin: 0;
+}
+
+.boton{
+  padding: 1.2rem 2.5rem;
+  border: 0;
+  border-radius: 9999px;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  color: #FF55AA;
+
+}
+
+.boton:hover{
+  cursor: pointer;
+  background-color: aquamarine;
+}
+
+.imagen{
+  box-shadow: 0 10px 3rem .8rem #D9D9D9
+}

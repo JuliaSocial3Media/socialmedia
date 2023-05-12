@@ -1,0 +1,17 @@
+.borde2{
+  border-width: 2px;
+  border-color: white;
+  margin: 2rem;
+}
+
+.boton2{
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  padding: 15px 25px;
+  border-color: white;
+  font-size: 2rem;
+  text-decoration: none;
+  font-weight: 300;
+  border: 2px solid #f3f3f3;
+  letter-spacing: 5px;
+}
